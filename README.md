@@ -5,7 +5,7 @@ docker image size: 521kB
 ## To run the docker image
 ``` sudo docker-compose up -d ```
 
-App will run on 0.0.0.0:80000
+App will run on (0.0.0.0:8000)
 
 The API has 2 endpoints namely :
 * numeric_values
